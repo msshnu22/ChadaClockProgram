@@ -1,0 +1,7 @@
+*.ipch
+*.h
+*.txt
+*.md
+*.pump
+*.xml
+*.targets
