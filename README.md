@@ -3,7 +3,7 @@
 This project that I have created as a submission for SNHU creates a program that displays a 12-hour clock as well as a 24-hour clock.
 There is a main menu that is created to handle the options for displaying the clock, update clock, and exit the program. When selecting display the clock,
 it adds an hour to both of the 12-hour and 24-hour clocks. When selecting update clock, another menu is displayed with options to add an hour, minute, and
-second. Selcting those options will update both clocks accordingly. The problem this project is solving is how to update a clock using a program, which I
+second. Selecting those options will update both clocks accordingly. The problem this project is solving is how to update a clock using a program, which I
 found to be very interesting.
 
 I feel that I did particularly well in handling the functions for adding an hour, minute, and second to the clocks. The reason 
